@@ -77,7 +77,6 @@
     "phantomjs-polyfill": "0.0.2",
     "phantomjs-prebuilt": "~2.1.7",
     "postcss-loader": "~0.9.1",
-    "react": "~15.3.0",
     "react-addons-css-transition-group": "~15.3.0",
     "react-addons-test-utils": "~15.3.0",
     "react-docgen": "~2.8.2",
@@ -113,6 +112,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
+    "react": "~15.3.0",
     "classnames": "~2.2.0",
     "immutability-helper": "~2.0.0",
     "react": "~0.14 || ~15.3.0",
